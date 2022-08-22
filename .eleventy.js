@@ -3,12 +3,12 @@ const fs = require('fs');
 const { render } = require('preact-render-to-string');
 const markdown = require('markdown-it');
 const markdownAnchor = require('markdown-it-anchor');
+const preact = require('preact-render-to-string');
 
-/* -----------------------------------
- *
- * 11ty
- *
- * -------------------------------- */
+const toPascalCase = (s) =>
+  s.replace(/(^\w|-\w)/g, (t) => t.replace(/-/, '').toUpperCase());
+
+const componentsDir = './src/_js/components';
 
 module.exports = function (config) {
   config.addPassthroughCopy('./src/_js/assets');
@@ -40,6 +40,17 @@ module.exports = function (config) {
   });
 
   config.addJavaScriptFunction('getAssetContents', getAssetContents);
+
+  fs.readdirSync(componentsDir).forEach((folder) => {
+    config.addPairedShortcode(toPascalCase(folder), (children) =>
+      preact(
+        require(`${componentsDir}/${folder}/${folder}.component.js`).default(
+          null,
+          children
+        )
+      )
+    );
+  });
 
   config.setLibrary(
     'md',

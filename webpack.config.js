@@ -218,15 +218,17 @@ const pages = {
 const entry = {
   mode: MODE,
   entry: glob
-    .sync(`${__dirname}/src/modules/**/*.entry.ts*`)
+    .sync(`${__dirname}/src/components/**/*.component.ts*`)
     .reduce((accumulator, element) => getSourceFile(accumulator, element), {}),
   context: path.join(__dirname, '/src/'),
   cache: true,
   target: 'web',
+  externals: fs.readdirSync('node_modules'),
   output: {
-    path: path.join(__dirname, '/src/_js/assets'),
-    filename: RELEASE ? '[name].[chunkhash:8].js' : '[name].js',
-    publicPath: '/assets/',
+    path: path.join(__dirname, '/src/_js'),
+    filename: '[name].js',
+    libraryTarget: 'umd',
+    globalObject: 'this',
   },
   resolve: {
     extensions: ['.js', '.ts', '.tsx', '.json', '.scss'],
@@ -235,9 +237,8 @@ const entry = {
     },
   },
   plugins: [
-    new AssetsManifestPlugin({
-      output: '../assets.json',
-      merge: true,
+    new ExtractCssPlugin({
+      filename: RELEASE ? 'assets/[name].[contenthash:8].css' : 'assets/[name].css',
     }),
   ],
   module: {
@@ -260,7 +261,7 @@ const entry = {
         test: /\.(sa|sc|c)ss$/,
         exclude: /\.module\.(sa|sc|c)ss$/,
         use: [
-          'style-loader',
+          ExtractCssPlugin.loader,
           {
             loader: 'css-loader',
             options: {
@@ -275,7 +276,7 @@ const entry = {
       {
         test: /\.module\.(sa|sc|c)ss$/,
         use: [
-          'style-loader',
+          ExtractCssPlugin.loader,
           {
             loader: 'css-loader',
             options: {
@@ -296,6 +297,7 @@ const entry = {
             loader: 'file-loader',
             options: {
               name: '[hash:8].[ext]',
+              outputPath: '/assets',
             },
           },
         ],
@@ -303,23 +305,14 @@ const entry = {
     ],
   },
   optimization: {
-    usedExports: true,
-    mergeDuplicateChunks: true,
-    moduleIds: 'deterministic',
-    runtimeChunk: false,
-    splitChunks: {
-      name: false,
-      chunks: 'async',
-      cacheGroups: {
-        default: false,
-        vendor: {
-          test: /[/\\]node_modules[/\\]/,
-          name: splitVendorChunks,
-          chunks: 'all',
-          enforce: true,
+    minimizer: [
+      new TerserPlugin({
+        parallel: true,
+        terserOptions: {
+          keep_fnames: true,
         },
-      },
-    },
+      }),
+    ],
   },
   watchOptions: {
     aggregateTimeout: 500,
@@ -349,14 +342,14 @@ function getSourceFile(result, file) {
   return result;
 }
 
-function splitVendorChunks(module, chunks) {
-  const chunkNames = chunks.filter(({ name }) => !(name || '').endsWith('.entry'));
+// function splitVendorChunks(module, chunks) {
+//   const chunkNames = chunks.filter(({ name }) => !(name || '').endsWith('.entry'));
 
-  if (chunkNames.length > 0) {
-    return chunkNames[0].name;
-  }
+//   if (chunkNames.length > 0) {
+//     return chunkNames[0].name;
+//   }
 
-  return 'vendor';
-}
+//   return 'vendor';
+// }
 
 module.exports = [data, pages, entry];
