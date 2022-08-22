@@ -5,8 +5,13 @@
   align-items: center;
   justify-content: center;
   max-width: 1024px;
-  margin: 0 auto;
+  margin: 40px auto;
   height: calc(100% - 40px);
+
+  @include for-size(tablet-landscape-down) {
+    flex-direction: column-reverse;
+    height: initial;
+  }
 
   img {
     max-width: 300px;
@@ -56,6 +61,12 @@
     background: rgba(255, 255, 255, 0.8);
     border-radius: 5px;
     margin: 0 10px;
+
+    @include for-size(tablet-landscape-down) {
+      display: block;
+      padding: 20px;
+      margin: 15px 0;
+    }
 
     &:hover {
       background: rgba(255, 255, 255, 0.6);
