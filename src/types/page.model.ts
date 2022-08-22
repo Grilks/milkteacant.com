@@ -1,7 +1,7 @@
 /* eslint-disable no-unused-vars */
 import * as siteMeta from '@/data/siteMeta';
 
-interface IPage {
+export interface IPage {
   slug: string;
   url: string;
   getCollectionItem: (page: string) => any;
@@ -10,10 +10,8 @@ interface IPage {
   getAssetContents: (paths: string[]) => string;
 }
 
-interface IData {
+export interface IData {
   cssPath?: string;
   jsPath?: string;
   siteMeta: typeof siteMeta;
 }
-
-export { IPage, IData };

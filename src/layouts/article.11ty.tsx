@@ -1,6 +1,6 @@
 /* eslint-disable react/no-danger */
 import { h } from 'preact';
-import { IData, IPage } from '@/modules/shared/model/page.model';
+import { IData, IPage } from '@/types';
 import style from './article.module.scss';
 
 interface IProperties extends IData {
@@ -9,7 +9,7 @@ interface IProperties extends IData {
   cssPath: string;
 }
 
-import { Html } from '@/modules/shared/components';
+import { Html } from '@/components';
 
 function Page(this: IPage, { siteMeta, title, content, cssPath }: IProperties) {
   return (
