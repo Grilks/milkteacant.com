@@ -15,10 +15,7 @@ function Page(this: IPage, { content, cssPath, jsPath, summary }: IProperties) {
   return (
     <Html cssPath={cssPath} jsPath={jsPath} summary={summary}>
       <main class={style.page}>
-        <div class={style.content}>
-          <div dangerouslySetInnerHTML={{ __html: content }} />
-        </div>
-        <img src="/_images/book-cover-3d.png" alt="A paperback version of the book" />
+        <div dangerouslySetInnerHTML={{ __html: content }} class={style.content} />
       </main>
     </Html>
   );
