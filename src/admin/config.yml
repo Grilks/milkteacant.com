@@ -11,7 +11,7 @@ media_folder: 'src/modules/pages/_images' # Media files will be stored in the re
 collections:
   - name: 'pages'
     label: 'Page'
-    folder: 'pages'
+    folder: 'src/modules/pages'
     create: true
     slug: '{{slug}}'
     fields:

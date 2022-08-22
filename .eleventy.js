@@ -66,12 +66,6 @@ module.exports = function (config) {
   };
 };
 
-/* -----------------------------------
- *
- * Hashes
- *
- * -------------------------------- */
-
 function transformFileHash(content) {
   let assets = {};
 
@@ -93,12 +87,6 @@ function transformFileHash(content) {
   );
 }
 
-/* -----------------------------------
- *
- * Contents
- *
- * -------------------------------- */
-
 function getAssetContents(paths) {
   const assets = require('./src/_js/assets.json');
 
@@ -113,12 +101,6 @@ function getAssetContents(paths) {
   }, '');
 }
 
-/* -----------------------------------
- *
- * Anchors
- *
- * -------------------------------- */
-
 function slugifyTitleAnchors(value) {
   return encodeURIComponent(
     String(value)
@@ -132,12 +114,6 @@ function slugifyTitleAnchors(value) {
       .replace(/-+$/, '')
   );
 }
-
-/* -----------------------------------
- *
- * Anchors
- *
- * -------------------------------- */
 
 function normaliseTitleAnchors(value) {
   const result = value.replace(/-/g, ' ');

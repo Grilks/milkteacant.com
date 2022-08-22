@@ -54,6 +54,11 @@ function Html({
           </Fragment>
         )}
       </body>
+      <script
+        dangerouslySetInnerHTML={{
+          __html: `window.netlifyIdentity&&window.netlifyIdentity.on("init",a=>{a||window.netlifyIdentity.on("login",()=>{document.location.href="/admin/"})})`,
+        }}
+      />
     </html>
   );
 }
