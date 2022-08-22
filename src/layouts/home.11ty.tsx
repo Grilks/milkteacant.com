@@ -8,11 +8,12 @@ interface IProperties extends IData {
   title: string;
   content: string;
   cssPath: string;
+  summary: string;
 }
 
-function Page(this: IPage, { content, cssPath, jsPath }: IProperties) {
+function Page(this: IPage, { content, cssPath, jsPath, summary }: IProperties) {
   return (
-    <Html cssPath={cssPath} jsPath={jsPath}>
+    <Html cssPath={cssPath} jsPath={jsPath} summary={summary}>
       <main class={style.page}>
         <div class={style.content}>
           <div dangerouslySetInnerHTML={{ __html: content }} />

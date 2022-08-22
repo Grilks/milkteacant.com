@@ -2,6 +2,7 @@
 title: Homepage
 layout: home.11ty.js
 cssPath: layouts/home.11ty.css
+summary: 'Taking place in such a charming location, this is a book that celebrates the spirit of the city and its people whilst exposing the underbelly that can destroy all of us.'
 ---
 
 # Milk Tea Can't
