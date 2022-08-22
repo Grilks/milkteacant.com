@@ -13,7 +13,14 @@ interface IProperties {
 
 import favicon from '@/styles/images/favicon.png';
 
-function Html({ title = '11ty', summary, inlineCss, cssPath, jsPath, children }: IProperties) {
+function Html({
+  title = `Milk Tea Can't by Alan Forsyth`,
+  summary,
+  inlineCss,
+  cssPath,
+  jsPath,
+  children,
+}: IProperties) {
   const scripts = ['vendor.js', jsPath];
 
   return (
