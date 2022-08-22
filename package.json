@@ -9,7 +9,7 @@
     "start": "npm-run-all clean pages -p watch:pages watch:11ty",
     "clean": "rimraf dist src/_js",
     "pages": "webpack",
-    "build": "npm-run-all clean build:*",
+    "build": "npm-run-all clean build:pages build:11ty",
     "build:pages": "webpack --mode=production",
     "build:11ty": "eleventy --quiet",
     "watch:pages": "webpack --watch",
