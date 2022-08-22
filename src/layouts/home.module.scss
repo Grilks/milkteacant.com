@@ -5,12 +5,13 @@
   align-items: center;
   justify-content: center;
   max-width: 1024px;
-  margin: 40px auto;
+  margin: 0 auto;
   height: calc(100% - 40px);
 
   @include for-size(tablet-landscape-down) {
     flex-direction: column-reverse;
     height: initial;
+    margin: 40px auto;
   }
 
   img {
