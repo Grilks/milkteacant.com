@@ -19,7 +19,7 @@ function Page(this: IPage, { content, cssPath }: IProperties) {
           <div class={style.buy}>
             Pre-order Now:
             <a
-              href="https://www.amazon.co.uk/Milk-Tea-Cant-Alan-Forsyth/dp/1398443824/ref=sr_1_1?keywords=austin+macauley+publishers+Milk+Tea+Can%27t&qid=1661128904&s=books&sr=1-1"
+              href="https://www.amazon.co.uk/Milk-Tea-Cant-Alan-Forsyth/dp/1398443824/ref=sr_1_1?keywords=Milk+Tea+Can%27t+Alan+Forsyth&qid=1661134226&sr=8-1"
               target="_blank"
               rel="noopener noreferrer"
             >
