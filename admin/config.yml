@@ -1,0 +1,26 @@
+# Netlify CMS Configuration File
+
+backend:
+  name: git-gateway
+  branch: main
+
+site_url: https://milkteacant.com
+
+media_folder: 'src/modules/pages/_images' # Media files will be stored in the repo under images/uploads
+
+collections:
+  - name: 'pages'
+    label: 'Page'
+    folder: 'pages'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Layout', name: 'layout', widget: 'string', default: 'home.11ty.js' }
+      - {
+          label: 'Style',
+          name: 'cssPath',
+          widget: 'string',
+          default: 'layouts/home.11ty.css',
+        }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
