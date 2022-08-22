@@ -16,11 +16,19 @@ collections:
     slug: '{{slug}}'
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Layout', name: 'layout', widget: 'string', default: 'home.11ty.js' }
+      - {
+          label: 'Layout',
+          name: 'layout',
+          widget: 'select',
+          default: 'home.11ty.js',
+          options: ['home.11ty.js'],
+        }
       - {
           label: 'Style',
           name: 'cssPath',
-          widget: 'string',
+          widget: 'select',
           default: 'layouts/home.11ty.css',
+          options: ['layouts/home.11ty.css'],
         }
+      - { label: 'Summary', name: 'summary', widget: 'markdown' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
