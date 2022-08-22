@@ -122,6 +122,10 @@ const pages = {
             ignore: ['**/*.ts*', '**/*.scss'],
           },
         },
+        {
+          from: 'admin/**',
+          to: '',
+        },
       ],
     }),
     new AssetsManifestPlugin({
