@@ -1,5 +1,5 @@
 ---
-title: Hello, world!
+title: Homepage
 layout: home.11ty.js
 cssPath: layouts/home.11ty.css
 ---
