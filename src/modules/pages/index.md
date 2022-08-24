@@ -52,6 +52,9 @@ He recently returned to Melbourne, Australia following six years in Scotland. Ha
 
 "This is set to be a best seller." Helen McLucas, Sydney Australia.
 
+"I found this book to be thought provoking and compelling.  Through the main character Fraser and set in the background of Edinburgh, the story touches on many human concerns; relationships, mental health, religion, sexuality, the dark side of the web and homelessness.  As the story unfolds and the characters develop, it reminds us of the weaknesses, strengths and vulnerability in all of us.  An excellent read.
+***** rating.
+Yvonne Junor, Melbourne Australia.
 - - -
 
 ## What's in it for you, the reader?  Three reasons why  Milk Tea Can't is a must read.
