@@ -43,9 +43,18 @@ In recent years, Alan has been entertaining a growing number of subscribers in h
 
 Alan is celebrated as a leader in community and charity, more recently founding and chairing the Men of Leith Men’s Shed, a vital charity in Leith Scotland. He also has a strong academic background with a flair for turning ideas into action. His undergraduate qualifications in psychology combined with extensive postgraduate qualifications in organisational change, ontology and mindfulness provide a rich background to his pursuits as a writer and speaker.
 
-He recently returned to Melbourne, Australia following five years in Scotland. Having completed his second book, Milk Tea Can’t, he will continue to enjoy writing, travelling with his wife creating and performing poetry. He will of course continue to provide direct help to charities.
+He recently returned to Melbourne, Australia following six years in Scotland where he founded and managed the now thriving Men of Leith Men's Shed. Having completed his second book, Milk Tea Can’t, he will continue to enjoy writing, travelling with his wife, creating and performing his poetry and offering live music performances on the streets of Melbourne. He will of course continue to provide direct help to charities, in particular those with a focus on the empowerment of young people.
 
 - - -
 ## Readers Reviews
+
+"I am up to chapter 16 and I am relly enjoying it.  Good read, thanks." Louise Smith, Beaconsfield Australia.
+
+"This is set to be a best seller." Helen McLucas, Sydney Australia.
+
+- - -
+
+## What's in it for you, the reader?  Three reasons to read Milk Tea Can't.
+
 
 
