@@ -35,7 +35,7 @@ This is a book that will generate important conversations.
 
 ## About the Author
 
-Alans's early career included supporting large corporations, like Yellow Pages Australia and Simplot, where he encouraged teams and managers to improve their performance which flowed onto them becoming better people, teams and leaders.
+Alan's early career included supporting large corporations, like Yellow Pages Australia and Simplot, where he encouraged teams and managers to improve their performance which flowed onto them becoming better people, teams and leaders.
 
 His acumen in helping people transform was also applied in small business, learning institutions and charities and it was not unusual to see him out on the streets supporting young homeless people and helping young leaders to be better leaders.
 
