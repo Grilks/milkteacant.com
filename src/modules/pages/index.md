@@ -2,9 +2,10 @@
 title: Homepage
 layout: home.11ty.js
 cssPath: layouts/home.11ty.css
-summary: 'Taking place in such a charming location, this is a book that celebrates the spirit of the city and its people whilst exposing the underbelly that can destroy all of us.'
+summary: Taking place in such a charming location, this is a book that
+  celebrates the spirit of the city and its people whilst exposing the
+  underbelly that can destroy all of us.
 ---
-
 # Milk Tea Can't
 
 ## Written by Alan Forsyth
@@ -30,7 +31,7 @@ This is a book that will generate important conversations.
 
 {% BuyLinks %}The Preorder Links{% endBuyLinks %}
 
----
+- - -
 
 ## About the Author
 
@@ -42,4 +43,4 @@ In recent years, Alan has been entertaining a growing number of subscribers in h
 
 Alan is celebrated as a leader in community and charity, more recently founding and chairing the Men of Leith Men’s Shed, a vital charity in Leith Scotland. He also has a strong academic background with a flair for turning ideas into action. His undergraduate qualifications in psychology combined with extensive postgraduate qualifications in organisational change, ontology and mindfulness provide a rich background to his pursuits as a writer and speaker.
 
-He recently returned to Melbourne, Australia following five years in Scotland. Having completed his second book, Milk Tea Can’t, he will continue to enjoy writing, travelling with his wife and performing with choirs. He will of course continue to provide direct help to charities.
+He recently returned to Melbourne, Australia following five years in Scotland. Having completed his second book, Milk Tea Can’t, he will continue to enjoy writing, travelling with his wife creating and performing poetry. He will of course continue to provide direct help to charities.
