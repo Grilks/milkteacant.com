@@ -46,7 +46,7 @@ Alan is celebrated as a leader in community and charity, more recently founding 
 He recently returned to Melbourne, Australia following six years in Scotland where he founded and managed the now thriving Men of Leith Men's Shed. Having completed his second book, Milk Tea Can’t, he will continue to enjoy writing, travelling with his wife, creating and performing his poetry and offering live music performances on the streets of Melbourne. He will of course continue to provide direct help to charities, in particular those with a focus on the empowerment of young people.
 
 - - -
-## Readers Reviews
+## What The Readers Say
 
 "I am up to chapter 16 and I am relly enjoying it.  Good read, thanks." Louise Smith, Beaconsfield Australia.
 
@@ -54,9 +54,7 @@ He recently returned to Melbourne, Australia following six years in Scotland whe
 
 - - -
 
-## What's in it for you, the reader?  Three reasons to read Milk Tea Can't.
-
-Three primary reaseons as to why Milk Tea Can't is a must read.
+## What's in it for you, the reader?  Three reasons why  Milk Tea Can't is a must read.
 
 1. Becasue each of the characters exemplify core concerns that exist in our communities such as dysfunction in their families, lost identity, addiction, homelessness and suicide balanced carefully against love, hope and strength, readers resonate with these characters and their experiences. They become real to them.
 
