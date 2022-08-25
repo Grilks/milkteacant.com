@@ -37,7 +37,7 @@ Alan's early career included supporting large corporations, like Yellow Pages Au
 
 His acumen in helping people transform was also applied in small business, learning institutions and charities and it was not unusual to see him out on the streets supporting young homeless people and helping young leaders to be better leaders.
 
-A student of literature, he was praised as a teacher of English to senior students at the prestigious Korowa Anglican Girls School, in Melbourne Australia. His first book Five gifts Flourishing is feaured on his website, www.followingforsth.com and is currently being employed as a vehicle to assist young people in their personal and leadership development.
+A student of literature, he was praised as a teacher of English to senior students at the prestigious Korowa Anglican Girls School, in Melbourne Australia. His first book Five Gifts Flourishing is featured on his website, www.followingforsth.com and is currently being employed as a vehicle to assist young people in their personal and leadership development.
 
 Alan is celebrated as a leader in community and charity, more recently founding and chairing the Men of Leith Men’s Shed, a vital charity in Edinburgh Scotland. He also has a strong academic background with a flair for turning ideas into action. His undergraduate qualifications in psychology combined with extensive postgraduate qualifications in organisational change, ontology and mindfulness provide a rich background to his pursuits as a writer and speaker.
 
@@ -64,7 +64,8 @@ Helen McLucas, Sydney Australia.
 
 Yvonne Junor, Melbourne Australia.
 
----
+> Reading this novel felt like an immersion in the maelstrom of life in Edinburgh city. The characters, the cultural norms, even the language are brought to the fore as we explore the dysfunctional lives of a some of the city’s residents. In walking the path with these wee folk, we gain insights into the day to day suffering that we humans can inhabit, our inability to see past our own stuff- wants, craving, desires and addictions. On occasions we see the sun shine with new possibilities, only to revisit the grey wet blanket of despair. We ride the waves with these Edinburgh folk as they try to pay attention to what is most important in their lives. We, as readers, are invited to reflect on our own lives and the ever present possibility of happiness from within and with each other. A novel to perturb the spirit.
+⭐⭐⭐---
 
 ## What's in it for you, the reader?
 
