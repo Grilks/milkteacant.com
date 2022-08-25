@@ -44,10 +44,7 @@ module.exports = function (config) {
   fs.readdirSync(componentsDir).forEach((folder) => {
     config.addPairedShortcode(toPascalCase(folder), (children) =>
       preact(
-        require(`${componentsDir}/${folder}/${folder}.component.js`).default(
-          null,
-          children
-        )
+        require(`${componentsDir}/${folder}/${folder}.component.js`).default({ children })
       )
     );
   });

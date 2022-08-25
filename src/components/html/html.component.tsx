@@ -1,16 +1,7 @@
 /* eslint-disable react/no-danger */
-import { h, Fragment } from 'preact';
+import { h, Fragment, ComponentChildren } from 'preact';
 import style from './html.module.scss';
 import favicon from '@/styles/images/favicon.png';
-
-interface IProperties {
-  title?: string;
-  summary?: string;
-  inlineCss?: string;
-  cssPath?: string;
-  jsPath?: string;
-  children: any;
-}
 
 export const Html = ({
   title = `Milk Tea Can't by Alan Forsyth`,
@@ -19,7 +10,14 @@ export const Html = ({
   cssPath,
   jsPath,
   children,
-}: IProperties) => {
+}: {
+  title?: string;
+  summary?: string;
+  inlineCss?: string;
+  cssPath?: string;
+  jsPath?: string;
+  children: ComponentChildren;
+}) => {
   const scripts = ['vendor.js', jsPath];
 
   return (
