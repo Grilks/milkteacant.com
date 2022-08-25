@@ -122,10 +122,6 @@ const pages = {
             ignore: ['**/*.ts*', '**/*.scss'],
           },
         },
-        {
-          from: 'admin/**',
-          to: '',
-        },
       ],
     }),
     new AssetsManifestPlugin({
@@ -319,6 +315,114 @@ const entry = {
   },
 };
 
+const admin = {
+  mode: MODE,
+  entry: glob
+    .sync(`${__dirname}/src/admin/**/*.ts*`)
+    .reduce((accumulator, element) => getSourceFile(accumulator, element), {}),
+  context: path.join(__dirname, '/src/'),
+  cache: true,
+  target: 'web',
+  // externals: fs.readdirSync('node_modules'),
+  output: {
+    path: path.join(__dirname, '/dist'),
+    filename: '[name].js',
+    libraryTarget: 'umd',
+    globalObject: 'this',
+  },
+  resolve: {
+    extensions: ['.js', '.ts', '.tsx', '.yml', '.scss'],
+    alias: {
+      '@': path.resolve(__dirname, `./src/`),
+    },
+  },
+  plugins: [
+    new ExtractCssPlugin({
+      filename: RELEASE ? 'assets/[name].[contenthash:8].css' : 'assets/[name].css',
+    }),
+    new CopyPlugin({
+      patterns: [
+        { from: 'admin/index.html', to: 'admin/index.html' },
+        { from: 'admin/config.yml', to: 'admin/config.yml' },
+      ],
+    }),
+  ],
+  module: {
+    rules: [
+      {
+        test: /\.tsx?$/,
+        use: [
+          {
+            loader: 'ts-loader',
+            options: {
+              compilerOptions: {
+                target: 'es5',
+                module: 'esnext',
+              },
+            },
+          },
+        ],
+      },
+      {
+        test: /\.(yml|html)$/i,
+        use: [
+          {
+            loader: 'file-loader',
+          },
+        ],
+      },
+      {
+        test: /\.(sa|sc|c)ss$/,
+        exclude: /\.module\.(sa|sc|c)ss$/,
+        use: [
+          ExtractCssPlugin.loader,
+          {
+            loader: 'css-loader',
+            options: {
+              modules: 'global',
+              importLoaders: 2,
+              sourceMap: false,
+            },
+          },
+          sassLoader,
+        ],
+      },
+      {
+        test: /\.module\.(sa|sc|c)ss$/,
+        use: [
+          ExtractCssPlugin.loader,
+          {
+            loader: 'css-loader',
+            options: {
+              modules: {
+                localIdentName: '[local]_[hash:base64:6]',
+              },
+              importLoaders: 2,
+              sourceMap: false,
+            },
+          },
+          sassLoader,
+        ],
+      },
+      {
+        test: /\.(png|jpe?g|gif|svg)$/i,
+        use: [
+          {
+            loader: 'file-loader',
+            options: {
+              name: '[hash:8].[ext]',
+              outputPath: '/assets',
+            },
+          },
+        ],
+      },
+    ],
+  },
+  watchOptions: {
+    aggregateTimeout: 500,
+  },
+};
+
 function getDataFiles() {
   const globalData = glob
     .sync(`${__dirname}/src/data/*.ts`)
@@ -352,4 +456,4 @@ function getSourceFile(result, file) {
 //   return 'vendor';
 // }
 
-module.exports = [data, pages, entry];
+module.exports = [data, pages, entry, admin];

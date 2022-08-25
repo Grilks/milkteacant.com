@@ -11,7 +11,7 @@ interface IProperties extends IData {
   summary: string;
 }
 
-function Page(this: IPage, { content, cssPath, jsPath, summary }: IProperties) {
+export function Page(this: IPage, { content, cssPath, jsPath, summary }: IProperties) {
   return (
     <Html cssPath={cssPath} jsPath={jsPath} summary={summary}>
       <main class={style.page}>
