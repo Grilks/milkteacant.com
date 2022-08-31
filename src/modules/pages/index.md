@@ -72,6 +72,8 @@ Max, Melbourne Australia.
 > Reading this novel felt like an immersion in the maelstrom of life in Edinburgh city. The characters, the cultural norms, even the language are brought to the fore as we explore the dysfunctional lives of a some of the city’s residents. In walking the path with these wee folk, we gain insights into the day to day suffering that we humans can inhabit, our inability to see past our own stuff- wants, craving, desires and addictions. On occasions we see the sun shine with new possibilities, only to revisit the grey wet blanket of despair. We ride the waves with these Edinburgh folk as they try to pay attention to what is most important in their lives. We, as readers, are invited to reflect on our own lives and the ever present possibility of happiness from within and with each other. A novel to perturb the spirit.
 ⭐⭐⭐---
 
+Mark, Melbourne , Australia.
+
 ## What's in it for you, the reader?
 
 {% Subtitle %}Three reasons why Milk Tea Can't is a must read.{% endSubtitle %}
