@@ -30,6 +30,10 @@
   user-select: none;
   margin-right: 10px;
 
+  @include for-size(tablet-landscape-down) {
+    width: 100%;
+  }
+
   div {
     display: inline-block;
     border: 1px solid gray;
@@ -38,6 +42,11 @@
     background-color: #ffffff;
     cursor: pointer;
     white-space: nowrap;
+
+    @include for-size(tablet-landscape-down) {
+      display: block;
+      margin-top: 10px;
+    }
 
     &:after {
       content: '';
@@ -76,13 +85,19 @@
     box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.1);
     background-color: #ffffff;
     list-style-type: none;
+    z-index: 99;
+
+    @include for-size(tablet-landscape-down) {
+      width: calc(100% - 2px);
+    }
   }
+
   li {
     padding: 10px 20px;
     cursor: pointer;
     white-space: nowrap;
     &:hover {
-      background-color: #f6f6f6;
+      background-color: #b1b1b1;
     }
     a {
       display: block;
