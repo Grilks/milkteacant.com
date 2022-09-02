@@ -14,7 +14,8 @@
     "jsxFactory": "h",
     "paths": {
       "@/*": ["./src/*"]
-    }
+    },
+    "resolveJsonModule": true
   },
   "exclude": ["node_modules"]
 }

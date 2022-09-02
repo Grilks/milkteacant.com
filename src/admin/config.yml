@@ -32,3 +32,65 @@ collections:
         }
       - { label: 'Summary', name: 'summary', widget: 'markdown' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'settings'
+    label: 'Settings'
+    description: 'High level website settings'
+    files:
+      - label: 'Buy Links'
+        name: 'buy-links'
+        file: 'src/data/buy-links.json'
+        fields:
+          - {
+              label: 'Australian Buy Title',
+              name: 'au-title',
+              widget: 'string',
+              default: 'Buy Now (AU)',
+            }
+          - label: 'Australian Buy Links'
+            name: 'au'
+            widget: 'list'
+            fields:
+              - {
+                  label: 'Title',
+                  name: 'title',
+                  widget: 'string',
+                  default: 'Amazon (Paperback)',
+                }
+              - {
+                  label: 'Link',
+                  name: 'link',
+                  widget: 'string',
+                  default: 'https://www.amazon.com.au/Milk-Tea-Cant-Alan-Forsyth/dp/1398443824/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1662015868&sr=8-1',
+                }
+          - label: 'United Kingdom Buy Links'
+            name: 'uk'
+            widget: 'list'
+            fields:
+              - {
+                  label: 'Title',
+                  name: 'title',
+                  widget: 'string',
+                  default: 'Amazon (Paperback)',
+                }
+              - {
+                  label: 'Link',
+                  name: 'link',
+                  widget: 'string',
+                  default: 'https://www.amazon.com.au/Milk-Tea-Cant-Alan-Forsyth/dp/1398443824/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1662015868&sr=8-1',
+                }
+          - label: 'United States Buy Links'
+            name: 'us'
+            widget: 'list'
+            fields:
+              - {
+                  label: 'Title',
+                  name: 'title',
+                  widget: 'string',
+                  default: 'Amazon (Paperback)',
+                }
+              - {
+                  label: 'Link',
+                  name: 'link',
+                  widget: 'string',
+                  default: 'https://www.amazon.com.au/Milk-Tea-Cant-Alan-Forsyth/dp/1398443824/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1662015868&sr=8-1',
+                }

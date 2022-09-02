@@ -1,18 +1,51 @@
 {
-  "country": "AU",
-  "link": "https://www.dymocks.com.au/book/milk-tea-cant-by-alan-forsyth-9781398443822",
-  "title": "Dymocks (Paperback)",
+  "au-title": "Buy Now (AU)",
   "au": [
     {
-      "title": "Amazon (Paperback)",
-      "link": "https://www.amazon.com.au/Milk-Tea-Cant-Alan-Forsyth/dp/1398443824/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1662015868&sr=8-1"
+      "link": "https://www.dymocks.com.au/book/milk-tea-cant-by-alan-forsyth-9781398443822",
+      "title": "Dymocks (Paperback)"
+    },
+    {
+      "link": "https://www.amazon.com.au/Milk-Tea-Cant-Alan-Forsyth/dp/1398443824/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1662015868&sr=8-1",
+      "title": "Amazon (Paperback)"
+    },
+    {
+      "link": "https://www.amazon.com.au/Milk-Tea-Cant-Alan-Forsyth-ebook/dp/B0BCH8648H/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1662015868&sr=8-1",
+      "title": "Amazon (Kindle)"
     }
   ],
+  "uk-title": "Buy Now (UK)",
   "uk": [
     {
-      "title": "Amazon (Paperback)",
-      "link": "https://www.amazon.com.au/Milk-Tea-Cant-Alan-Forsyth/dp/1398443824/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1662015868&sr=8-1"
+      "link": "https://www.amazon.co.uk/Milk-Tea-Cant-Alan-Forsyth/dp/1398443824/ref=sr_1_1?keywords=Milk+Tea+Can%27t+Alan+Forsyth&qid=1661134226&sr=8-1",
+      "title": "Amazon (Paperback)"
+    },
+    {
+      "link": "https://www.amazon.co.uk/Milk-Tea-Cant-Alan-Forsyth-ebook/dp/B0BCH8648H/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1661134226&sr=8-1",
+      "title": "Amazon (Kindle)"
+    },
+    {
+      "link": "https://www.austinmacauley.com/book/milk-tea-cant",
+      "title": "Austin Macauley (Paperback / ePub)"
+    },
+    {
+      "link": "https://www.waterstones.com/book/milk-tea-cant/alan-forsyth/9781398443822",
+      "title": "Waterstones (Paperback)"
     }
   ],
-  "au-title": "Buy Now (AU)"
+  "us-title": "Buy Now (US)",
+  "us": [
+    {
+      "link": "https://www.amazon.com/Milk-Tea-Cant-Alan-Forsyth/dp/1398443824/ref=sr_1_1?keywords=Milk+Tea+Can%27t+Alan+Forsyth&qid=1661134226&sr=8-1",
+      "title": "Amazon (Paperback)"
+    },
+    {
+      "link": "https://www.amazon.com/Milk-Tea-Cant-Alan-Forsyth-ebook/dp/B0BCH8648H/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1661134226&sr=8-1",
+      "title": "Amazon (Kindle)"
+    },
+    {
+      "link": "https://www.barnesandnoble.com/w/milk-tea-cant-alan-forsyth/1142049510?ean=9781398443822",
+      "title": "Barnes and Noble (Paperback)"
+    }
+  ]
 }

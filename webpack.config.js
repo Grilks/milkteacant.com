@@ -34,6 +34,7 @@ const data = {
     path: path.join(__dirname, '/src/_js'),
     filename: '[name].js',
     libraryTarget: 'umd',
+    publicPath: '',
   },
   resolve: {
     extensions: ['.js', '.ts', '.tsx', '.json', '.scss'],
@@ -95,6 +96,7 @@ const pages = {
     path: path.join(__dirname, '/src/_js'),
     filename: '[name].js',
     libraryTarget: 'umd',
+    publicPath: '',
   },
   resolve: {
     extensions: ['.js', '.ts', '.tsx', '.json', '.scss'],
@@ -229,6 +231,7 @@ const entry = {
     filename: '[name].js',
     libraryTarget: 'umd',
     globalObject: 'this',
+    publicPath: '',
   },
   resolve: {
     extensions: ['.js', '.ts', '.tsx', '.json', '.scss'],
