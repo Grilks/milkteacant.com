@@ -18,7 +18,7 @@ function Page(
   const pageCss = this.getAssetContents(['layouts/default.11ty.css', cssPath]);
 
   return (
-    <Html title={pageTitle} inlineCss={pageCss} jsPath={jsPath}>
+    <Html title={pageTitle} inlineCss={pageCss} jsPath={jsPath} url={this.page.url}>
       {content}
     </Html>
   );

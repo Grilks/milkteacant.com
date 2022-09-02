@@ -1,9 +1,14 @@
 /* eslint-disable no-unused-vars */
-import * as siteMeta from '@/data/siteMeta';
+import * as siteMeta from '@/data/site-meta.json';
 
 export interface IPage {
   slug: string;
   url: string;
+  page: {
+    url: string;
+    date: string;
+    fileSlug: string;
+  };
   getCollectionItem: (page: string) => any;
   getPreviousCollectionItem: (page: string) => any;
   getNextCollectionItem: (page: string) => any;

@@ -2,6 +2,7 @@
 import { h, Fragment, ComponentChildren } from 'preact';
 import style from './html.module.scss';
 import favicon from '@/styles/images/favicon.png';
+import { domain } from '@/data/site-meta.json';
 
 export const Html = ({
   title = `Milk Tea Can't by Alan Forsyth`,
@@ -10,6 +11,7 @@ export const Html = ({
   cssPath,
   jsPath,
   children,
+  url,
 }: {
   title?: string;
   summary?: string;
@@ -17,6 +19,7 @@ export const Html = ({
   cssPath?: string;
   jsPath?: string;
   children: ComponentChildren;
+  url: string;
 }) => {
   const scripts = ['vendor.js', jsPath];
 
@@ -31,6 +34,7 @@ export const Html = ({
           name="viewport"
           content="width=device-width, height=device-height, initial-scale=1"
         />
+        <link rel="canonical" href={`${domain}${url}`} />
         {jsPath && (
           <Fragment>
             {scripts.map((script) => (

@@ -13,7 +13,11 @@ import { Html } from '@/components';
 
 function Page(this: IPage, { siteMeta, title, content, cssPath }: IProperties) {
   return (
-    <Html title={`${siteMeta.pageTitle} - ${title}`} cssPath={cssPath}>
+    <Html
+      title={`${siteMeta.pageTitle} - ${title}`}
+      cssPath={cssPath}
+      url={this.page.url}
+    >
       <main class={style.content}>
         <article class={style.article} dangerouslySetInnerHTML={{ __html: content }} />
       </main>
