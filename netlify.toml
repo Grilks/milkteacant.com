@@ -8,3 +8,8 @@
     X-XSS-Protection = "1; mode=block"
     Referrer-Policy = "no-referrer"
     Feature-Policy = "microphone 'none'; geolocation 'none'"
+
+[[headers]]
+  for = "_images/*"
+  [headers.values]
+    Cache-Control = "public, s-max-age=31557600"
