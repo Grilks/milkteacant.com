@@ -63,9 +63,18 @@
   }
 
   ol {
+    padding-inline-start: 30px;
+    margin: 0;
+
     li {
-      font-size: 24px;
-      margin: 10px 0;
+      margin-bottom: 20px;
+      font-size: 18px;
+      font-family: sans-serif;
+      font-weight: lighter;
+
+      &::marker {
+        font-size: 24px;
+      }
     }
   }
 
