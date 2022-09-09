@@ -6,6 +6,7 @@ summary: Taking place in such a charming location, this is a book that
   celebrates the spirit of the city and its people whilst exposing the
   underbelly that can destroy all of us.
 ---
+
 # Milk Tea Can't
 
 {% Subtitle %}Written by Alan Forsyth{% endSubtitle %}
@@ -28,7 +29,7 @@ This is a book that will generate important conversations.
 
 {% BuyLinks %}The Preorder Links{% endBuyLinks %}
 
-- - -
+---
 
 ## About the Author
 
@@ -42,7 +43,7 @@ Alan is celebrated as a leader in community and charity, more recently founding 
 
 He recently returned to Melbourne, Australia following six years in Scotland. Having completed his second book, Milk Tea Can’t, he will continue to enjoy writing, travelling with his wife, creating and performing his poetry and offering live music performances on the streets of Melbourne. He will of course continue to provide direct help to charities, in particular those with a focus on the empowerment of young people.
 
-- - -
+---
 
 ## What The Readers Say
 
@@ -72,7 +73,7 @@ Max, Melbourne Australia.
 
 Mark, Melbourne, Australia.
 
-- - -
+---
 
 ## What's in it for you, the reader?
 
@@ -81,3 +82,13 @@ Mark, Melbourne, Australia.
 1. Becasue each of the characters exemplify core concerns that exist in our communities such as dysfunction in their families, lost identity, addiction, homelessness and suicide balanced carefully against love, hope and strength, readers resonate with these characters and their experiences. They become real to them.
 2. Set in one of the most beautiful cities of the world, the reader is treated to a cultural tour of Edinburgh. This of course includes its seedy side and several insights as to the historical development of Auld Reeky.
 3. Alan Forsyth is a highlly creative author willing to explore what is new and different. In Milk Tea Can't he uniquely includes Edinburgh as a character, observing and commentating on the events and characters in the novel and of course on her own city. Perhaps she a cross between a Shakesperean chorus and a contemporary influencer.
+
+---
+
+## Contact the author
+
+Want to get in touch with Alan Forsyth?
+
+Just fill out the form below:
+
+{% Contact %}{% endContact %}
