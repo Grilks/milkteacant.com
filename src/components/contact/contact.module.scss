@@ -24,21 +24,26 @@
     background-color: #ffffff;
   }
 
-  textarea {
-    min-width: 400px;
-    width: 60%;
-    min-height: 150px;
-  }
-
+  textarea,
   input {
     min-width: 400px;
+
+    @include for-size(tablet-landscape-down) {
+      min-width: initial;
+      width: 100% !important;
+    }
+  }
+
+  textarea {
+    width: 60%;
+    min-height: 150px;
   }
 
   button {
     margin: 0;
 
     @include for-size(tablet-landscape-down) {
-      width: 80%;
+      width: 100%;
     }
   }
 }

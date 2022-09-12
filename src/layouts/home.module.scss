@@ -20,6 +20,9 @@
   display: block;
 
   @include for-size(tablet-landscape-down) {
+    width: 100%;
+    padding: 0 20px;
+
     img {
       float: none !important;
       display: block;

@@ -1,24 +1,17 @@
 @import 'template';
 
-/* -----------------------------------
- *
- * HTML
- *
- * -------------------------------- */
-
 .html {
   height: 100%;
 }
-
-/* -----------------------------------
- *
- * Body
- *
- * -------------------------------- */
 
 .body {
   background: $colour-background;
   font-family: $font-default;
   margin: 0;
   height: 100%;
+  width: 100%;
+}
+
+* {
+  box-sizing: border-box;
 }
