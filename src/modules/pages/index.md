@@ -13,7 +13,7 @@ summary: Taking place in such a charming location, this is a book that
 
 <img
   style="float: right; width: 300px; margin-left: 40px;"
-  src="/_images/book-cover-3d.png"
+  src="/_images/book-cover-3d.webp"
   alt="A paperback version of the book"
   width="300" 
 />
