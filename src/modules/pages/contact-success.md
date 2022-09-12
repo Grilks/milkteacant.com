@@ -14,6 +14,7 @@ summary: Thanks for contacting Alan Forsyth
   src="/_images/book-cover-3d.webp"
   alt="A paperback version of the book"
   width="300"
+  height="382"
 />
 
 Thanks for contacting Alan Forsyth, if you left your email address we'll endevor to get back to you.

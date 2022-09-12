@@ -16,6 +16,7 @@ summary: Taking place in such a charming location, this is a book that
   src="/_images/book-cover-3d.webp"
   alt="A paperback version of the book"
   width="300" 
+  height="382"
 />
 
 As soon as you discover Fraser walking backward and barefoot on the Meadows, Edinburgh Castle splashed by Hogmanay fireworks, you will be hooked.
