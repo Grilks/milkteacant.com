@@ -15,6 +15,7 @@ summary: Taking place in such a charming location, this is a book that
   style="float: right; width: 300px; margin-left: 40px;"
   src="/_images/book-cover-3d.png"
   alt="A paperback version of the book"
+  width="300" 
 />
 
 As soon as you discover Fraser walking backward and barefoot on the Meadows, Edinburgh Castle splashed by Hogmanay fireworks, you will be hooked.
@@ -86,9 +87,10 @@ Mark, Melbourne, Australia.
 ---
 
 ## Discover more about Milk Tea Can't
+
 {% Subtitle %}Enjoy images of Edinburgh{% endSubtitle %}
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/748399232?h=74b472912f&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Edinburgh Images Final.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+{% VimeoPlayer 748399232 %}{% endVimeoPlayer %}
 
 ---
 

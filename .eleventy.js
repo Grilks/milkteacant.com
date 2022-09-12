@@ -42,9 +42,12 @@ module.exports = function (config) {
   config.addJavaScriptFunction('getAssetContents', getAssetContents);
 
   fs.readdirSync(componentsDir).forEach((folder) => {
-    config.addPairedShortcode(toPascalCase(folder), (children) =>
+    config.addPairedShortcode(toPascalCase(folder), (children, ...props) =>
       preact(
-        require(`${componentsDir}/${folder}/${folder}.component.js`).default({ children })
+        require(`${componentsDir}/${folder}/${folder}.component.js`).default({
+          children,
+          props,
+        })
       )
     );
   });

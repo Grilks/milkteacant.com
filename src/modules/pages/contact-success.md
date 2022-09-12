@@ -13,6 +13,7 @@ summary: Thanks for contacting Alan Forsyth
   style="float: right; width: 300px; margin-left: 40px;"
   src="/_images/book-cover-3d.png"
   alt="A paperback version of the book"
+  width="300"
 />
 
 Thanks for contacting Alan Forsyth, if you left your email address we'll endevor to get back to you.
