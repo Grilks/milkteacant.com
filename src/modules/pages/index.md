@@ -53,12 +53,12 @@ He recently returned to Melbourne, Australia following six years in Scotland. Ha
 
 Dane Picken, Screen Writer & Filmmaker, Australia.
 
-> "I am up to chapter 16 and I am relly enjoying it. Good read, thanks."
-
-Louise Smith, Beaconsfield Australia.
+> An important and timely book, very engagin and well written.
+⭐️⭐️⭐️⭐️⭐️ rating.  Also on goodreads.com
+A﻿sh Humphrey, Melbourne Australia.
 
 > I thoroughly enjoyed this book. The character's struggles, events, reactions, and choices were easy to relate to. Every chapter motivated me to read on with a curiosity about what was coming next. This book, for me, is an excellent story about people, life choices and relationships. A great read.
-⭐️⭐️⭐️⭐️⭐️ rating
+⭐️⭐️⭐️⭐️⭐️ rating.  Also on goodreads.com
 
 Lawrie Horder, Melbourne Australia
 
