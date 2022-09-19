@@ -58,6 +58,7 @@ Dane Picken, Screen Writer & Filmmaker, Australia.
 Louise Smith, Beaconsfield Australia.
 
 > I thoroughly enjoyed this book. The character's struggles, events, reactions, and choices were easy to relate to. Every chapter motivated me to read on with a curiosity about what was coming next. This book, for me, is an excellent story about people, life choices and relationships. A great read.
+⭐️⭐️⭐️⭐️⭐️ rating
 
 Lawrie Horder, Melbourne Australia
 
