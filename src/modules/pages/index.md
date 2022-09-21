@@ -50,27 +50,29 @@ He recently returned to Melbourne, Australia following six years in Scotland. Ha
 ## What The Readers Say
 
 > Wow. This is heavy-hitting stuff. There is gold in here.
-Dane Picken, Screen Writer & Filmmaker, Australia.
+> Dane Picken, Screen Writer & Filmmaker, Australia.
 
 > An important and timely book, very engaging and well written.
-⭐️⭐️⭐️⭐️⭐️ rating.  Also on goodreads.com
-A﻿sh Humphrey, Melbourne Australia.
+> ⭐️⭐️⭐️⭐️⭐️ rating. Also on goodreads.com
+> A﻿sh Humphrey, Melbourne Australia.
 
 > I thoroughly enjoyed this book. The character's struggles, events, reactions, and choices were easy to relate to. Every chapter motivated me to read on with a curiosity about what was coming next. This book, for me, is an excellent story about people, life choices and relationships. A great read.
-⭐️⭐️⭐️⭐️⭐️ rating.  Also on goodreads.com
+> ⭐️⭐️⭐️⭐️⭐️ rating.
+> Also on goodreads.com
 
-Lawrie Horder, Melbourne Australia.
+Lawrie Horder,
+Melbourne Australia.
 
 > "I found this book to be thought provoking and compelling. Through the main character Fraser and set in the background of Edinburgh, the story touches on many human concerns; relationships, mental health, religion, sexuality, the dark side of the web and homelessness. As the story unfolds and the characters develop, it reminds us of the weaknesses, strengths and vulnerability in all of us. An excellent read.
 > ⭐️⭐️⭐️⭐️⭐️ rating
-Yvonne Junor, Melbourne Australia.
+> Yvonne Junor, Melbourne Australia.
 
 > An intriguing and captivating story of a dysfunctional family. Couldn’t put it down. I really enjoyed the book. Alan slowly draws you into the web of a dysfunctional family as introduced by the city of Edinburgh in each chapter. Each of the family members’ history, character, interrelations, and interactions with others are revealed until you cannot put the book down as the crescendo builds into a number of climatic and life-changing outcomes for each one. Some of the characters will appall, some will inspire, and some will resonate with you as the story unfolds and life choices are made where getting ‘back on the rails and off the rails’ are explored. The plethora of human possibilities are presented to the reader to captivate and draw you in. A powerful read.
 > ⭐️⭐️⭐️⭐️⭐️ rating
-Max, Melbourne Australia.
+> Max, Melbourne Australia.
 
 > Reading this novel felt like an immersion in the maelstrom of life in Edinburgh city. The characters, the cultural norms, even the language are brought to the fore as we explore the dysfunctional lives of a some of the city’s residents. In walking the path with these wee folk, we gain insights into the day to day suffering that we humans can inhabit, our inability to see past our own stuff- wants, craving, desires and addictions. On occasions we see the sun shine with new possibilities, only to revisit the grey wet blanket of despair. We ride the waves with these Edinburgh folk as they try to pay attention to what is most important in their lives. We, as readers, are invited to reflect on our own lives and the ever present possibility of happiness from within and with each other. A novel to perturb the spirit.
-Mark, Melbourne, Australia.
+> Mark, Melbourne, Australia.
 
 ---
 
@@ -90,7 +92,10 @@ Mark, Melbourne, Australia.
 
 {% VimeoPlayer 748399232 %}{% endVimeoPlayer %}
 
-<div style="padding:75% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/751131619?h=69acf47d4e&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Milk Tea Can&amp;#039;t Music Fraser"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<br />
+
+{% VimeoPlayer 751131619 %}{% endVimeoPlayer %}
+
 ---
 
 ## Contact the author
@@ -100,4 +105,3 @@ Want to get in touch with Alan Forsyth?
 Just fill out the form below:
 
 {% Contact %}{% endContact %}
-

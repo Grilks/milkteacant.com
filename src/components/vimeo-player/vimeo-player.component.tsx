@@ -15,7 +15,7 @@ export const VimeoPlayer = ({ props }: { props?: string[] }) => {
       />
       {/*
       // @ts-ignore is included as a module above */}
-      <lite-vimeo videoid="748399232" />
+      <lite-vimeo videoid={videoId} />
     </div>
   );
 };
