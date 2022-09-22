@@ -8,7 +8,6 @@
   flex-direction: column;
 
   @include for-size(tablet-landscape-down) {
-    flex-direction: column-reverse;
     height: initial;
   }
 }
