@@ -7,6 +7,11 @@
     {
       "title": "Videos",
       "link": "/videos"
+    },
+    {
+      "title": "Review on Goodreads",
+      "newWindow": true,
+      "link": "https://www.goodreads.com/book/show/61872813-milk-tea-can-t?ac=1&from_search=true&qid=U73XxZMacD&rank=1"
     }
   ]
 }

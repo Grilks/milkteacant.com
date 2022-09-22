@@ -3,6 +3,7 @@ import { h, Fragment, ComponentChildren } from 'preact';
 import style from './html.module.scss';
 import favicon from '@/styles/images/favicon.png';
 import { domain } from '@/data/site-meta.json';
+import { Navigation } from '@/components';
 
 export const Html = ({
   title = `Milk Tea Can't by Alan Forsyth`,
@@ -46,6 +47,7 @@ export const Html = ({
         {cssPath && <link rel="stylesheet" href={`/assets/${cssPath}`} />}
       </head>
       <body class={style.body}>
+        <Navigation />
         {children}
         {jsPath && (
           <Fragment>

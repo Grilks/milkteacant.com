@@ -1,0 +1,44 @@
+@import 'template';
+
+.navigation {
+  display: flex;
+  color: $white;
+
+  border-bottom: 1px solid $grey-dark;
+  position: fixed;
+  z-index: 2;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: $black-opaque;
+
+  ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin: 0 auto;
+    width: 1024px;
+
+    li {
+      a {
+        color: $white;
+        text-decoration: none;
+        display: block;
+        padding: 20px;
+        width: 100%;
+
+        &:hover {
+          color: $grey;
+        }
+      }
+      &:last-child {
+        margin-left: auto;
+      }
+    }
+  }
+}
+
+.logo {
+  color: $grey;
+  font-weight: lighter;
+}

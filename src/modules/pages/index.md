@@ -86,18 +86,6 @@ Melbourne Australia.
 
 ---
 
-## Discover more about Milk Tea Can't
-
-{% Subtitle %}Enjoy images of Edinburgh{% endSubtitle %}
-
-{% VimeoPlayer 748399232 %}{% endVimeoPlayer %}
-
-<br />
-
-{% VimeoPlayer 751131619 %}{% endVimeoPlayer %}
-
----
-
 ## Contact the author
 
 Want to get in touch with Alan Forsyth?

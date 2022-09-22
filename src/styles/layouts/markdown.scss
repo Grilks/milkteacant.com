@@ -1,0 +1,52 @@
+@mixin markdown {
+  h1 {
+    font-size: 72px;
+    font-weight: lighter;
+    margin-bottom: 0;
+  }
+
+  h2 {
+    font-size: 36px;
+    font-weight: lighter;
+    margin-bottom: 0;
+  }
+
+  p {
+    font-weight: lighter;
+    font-size: 18px;
+    font-family: sans-serif;
+  }
+
+  blockquote {
+    padding-left: 20px;
+    margin-left: 0;
+    border-left: 3px solid $grey;
+    color: $grey;
+  }
+
+  hr {
+    border: 0;
+    border-top: 1px solid $grey-dark;
+    margin: 80px 0;
+  }
+
+  a {
+    color: $grey;
+  }
+
+  ol {
+    padding-inline-start: 30px;
+    margin: 0;
+
+    li {
+      margin-bottom: 20px;
+      font-size: 18px;
+      font-family: sans-serif;
+      font-weight: lighter;
+
+      &::marker {
+        font-size: 24px;
+      }
+    }
+  }
+}

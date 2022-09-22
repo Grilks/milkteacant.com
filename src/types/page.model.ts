@@ -19,4 +19,13 @@ export interface IData {
   cssPath?: string;
   jsPath?: string;
   siteMeta: typeof siteMeta;
+  collections: {
+    videos: {
+      url: string;
+      data: {
+        title: string;
+        summary?: string;
+      };
+    }[];
+  };
 }

@@ -1,0 +1,40 @@
+@import 'template';
+
+.videos {
+  @include content();
+  margin-top: 20px;
+}
+
+.video {
+  color: $white;
+  text-decoration: none;
+  position: relative;
+  display: flex;
+  padding: 20px 0;
+  margin-bottom: 20px;
+  border-left: 3px solid $grey;
+
+  &:hover {
+    transition: border-width 0.2s ease;
+    border-left: 10px solid $white;
+  }
+
+  div {
+    flex-grow: 1;
+
+    h2 {
+      margin-top: 0;
+    }
+
+    p {
+      margin-bottom: 0;
+    }
+  }
+}
+
+.play {
+  width: 40px;
+  height: 40px;
+  margin: 0 20px;
+  fill: $white;
+}
