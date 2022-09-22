@@ -2,6 +2,10 @@
 
 .page {
   @include page-layout();
+
+  @include for-size(tablet-landscape-down) {
+    height: initial;
+  }
 }
 
 .content {
