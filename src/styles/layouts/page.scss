@@ -1,0 +1,14 @@
+@mixin page-layout {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 1024px;
+  overflow: auto;
+  margin: 40px auto;
+  flex-direction: column;
+
+  @include for-size(tablet-landscape-down) {
+    flex-direction: column-reverse;
+    height: initial;
+  }
+}

@@ -118,8 +118,8 @@ const pages = {
           },
         },
         {
-          from: 'modules/articles',
-          to: 'articles',
+          from: 'modules/videos',
+          to: 'videos',
           globOptions: {
             ignore: ['**/*.ts*', '**/*.scss'],
           },

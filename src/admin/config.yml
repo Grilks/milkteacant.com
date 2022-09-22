@@ -32,10 +32,49 @@ collections:
         }
       - { label: 'Summary', name: 'summary', widget: 'markdown' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'videos'
+    label: 'Videos'
+    folder: 'src/modules/videos'
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - {
+          label: 'Layout',
+          name: 'layout',
+          widget: 'select',
+          default: 'video.11ty.js',
+          options: ['video.11ty.js'],
+        }
+      - {
+          label: 'Style',
+          name: 'cssPath',
+          widget: 'select',
+          default: 'layouts/home.11ty.css',
+          options: ['layouts/home.11ty.css'],
+        }
+      - { label: 'Summary', name: 'summary', widget: 'markdown' }
+      - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'settings'
     label: 'Settings'
     description: 'High level website settings'
     files:
+      - label: 'Navigation Links'
+        name: 'nav-links'
+        file: 'src/data/nav-links.json'
+        fields:
+          - label: 'Links'
+            name: 'links'
+            widget: 'list'
+            fields:
+              - { label: 'Title', name: 'title', widget: 'string', default: 'Home' }
+              - { label: 'Link', name: 'link', widget: 'string', default: '/' }
+              - {
+                  label: 'Open in new window',
+                  name: 'newWindow',
+                  widget: 'boolean',
+                  default: false,
+                }
       - label: 'Buy Links'
         name: 'buy-links'
         file: 'src/data/buy-links.json'

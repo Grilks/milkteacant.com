@@ -1,9 +1,19 @@
 import { h } from 'preact';
 
-export const VimeoPlayer = ({ props }: { props?: string[] }) => {
-  const videoId = props?.[0];
+export const VimeoPlayer = ({
+  props,
+  vimeoId,
+}: {
+  props?: string[];
+  vimeoId?: string | number;
+}) => {
+  let id = Array.isArray(props) ? props?.[0] : vimeoId?.toString();
 
-  if (!videoId) return;
+  if (!id) {
+    console.warn('Vimeo player requires a vimeoId');
+
+    return <div />;
+  }
 
   return (
     <div>
@@ -15,7 +25,7 @@ export const VimeoPlayer = ({ props }: { props?: string[] }) => {
       />
       {/*
       // @ts-ignore is included as a module above */}
-      <lite-vimeo videoid={videoId} />
+      <lite-vimeo videoid={id} />
     </div>
   );
 };

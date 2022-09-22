@@ -64,6 +64,10 @@ module.exports = function (config) {
     })
   );
 
+  config.addCollection('videos', (collection) =>
+    collection.getFilteredByGlob('**/videos/*.md')
+  );
+
   return {
     passthroughFileCopy: true,
     jsDataFileSuffix: '.data',
