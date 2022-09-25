@@ -17,7 +17,11 @@
     list-style-type: none;
     padding: 0;
     margin: 0 auto;
-    width: 1024px;
+    width: 944px;
+
+    @include for-size(tablet-landscape-down) {
+      width: 100%;
+    }
 
     li {
       a {
@@ -27,8 +31,18 @@
         padding: 20px;
         width: 100%;
 
+        @include for-size(tablet-landscape-down) {
+          font-size: 14px;
+          font-weight: bold;
+        }
+
         &:hover {
           color: $grey;
+        }
+      }
+      @include for-size(tablet-landscape-down) {
+        &:first-child {
+          display: none;
         }
       }
       &:last-child {
