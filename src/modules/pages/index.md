@@ -53,15 +53,12 @@ He recently returned to Melbourne, Australia following six years in Scotland. Ha
 > Dane Picken, Screen Writer & Filmmaker, Australia.
 
 > An important and timely book, very engaging and well written.
-> ⭐️⭐️⭐️⭐️⭐️ rating. Also on goodreads.com
-> A﻿sh Humphrey, Melbourne Australia.
+> ⭐️⭐️⭐️⭐️⭐️ rating [on goodreads.com](https://www.goodreads.com/review/show/4995739374).
+> Ash Humphrey, Melbourne Australia.
 
 > I thoroughly enjoyed this book. The character's struggles, events, reactions, and choices were easy to relate to. Every chapter motivated me to read on with a curiosity about what was coming next. This book, for me, is an excellent story about people, life choices and relationships. A great read.
-> ⭐️⭐️⭐️⭐️⭐️ rating.
-> Also on goodreads.com
-
-Lawrie Horder,
-Melbourne Australia.
+> ⭐️⭐️⭐️⭐️⭐️ rating [on goodreads.com](https://www.goodreads.com/review/show/4995778792).
+> Lawrie Horder, Melbourne Australia.
 
 > "I found this book to be thought provoking and compelling. Through the main character Fraser and set in the background of Edinburgh, the story touches on many human concerns; relationships, mental health, religion, sexuality, the dark side of the web and homelessness. As the story unfolds and the characters develop, it reminds us of the weaknesses, strengths and vulnerability in all of us. An excellent read.
 > ⭐️⭐️⭐️⭐️⭐️ rating
