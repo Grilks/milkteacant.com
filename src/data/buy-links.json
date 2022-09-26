@@ -3,49 +3,59 @@
   "au": [
     {
       "link": "https://www.dymocks.com.au/book/milk-tea-cant-by-alan-forsyth-9781398443822",
-      "title": "Dymocks (Paperback)"
+      "title": "Dymocks (Paperback)",
+      "description": "Dymocks Booksellers is an Australian-founded privately owned bookstore chain"
     },
     {
       "link": "https://www.amazon.com.au/Milk-Tea-Cant-Alan-Forsyth/dp/1398443824/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1662015868&sr=8-1",
-      "title": "Amazon (Paperback)"
+      "title": "Amazon (Paperback)",
+      "description": "Amazon Australia. Enjoy Free Shipping With Orders Over $39*"
     },
     {
       "link": "https://www.amazon.com.au/Milk-Tea-Cant-Alan-Forsyth-ebook/dp/B0BCH8648H/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1662015868&sr=8-1",
-      "title": "Amazon (Kindle)"
+      "title": "Amazon (Kindle)",
+      "description": "Amazon Australia. Read Anywhere & Anytime on Kindle"
     }
   ],
   "uk-title": "Buy Now (UK)",
   "uk": [
     {
       "link": "https://www.amazon.co.uk/Milk-Tea-Cant-Alan-Forsyth/dp/1398443824/ref=sr_1_1?keywords=Milk+Tea+Can%27t+Alan+Forsyth&qid=1661134226&sr=8-1",
-      "title": "Amazon (Paperback)"
+      "title": "Amazon (Paperback)",
+      "description": "Amazon United Kingdom. Enjoy Free Shipping With Orders Over £10"
     },
     {
       "link": "https://www.amazon.co.uk/Milk-Tea-Cant-Alan-Forsyth-ebook/dp/B0BCH8648H/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1661134226&sr=8-1",
-      "title": "Amazon (Kindle)"
+      "title": "Amazon (Kindle)",
+      "description": "Amazon United Kingdom. Read Anywhere & Anytime on Kindle"
     },
     {
       "link": "https://www.austinmacauley.com/book/milk-tea-cant",
-      "title": "Austin Macauley (Paperback / ePub)"
+      "title": "Austin Macauley (Paperback / ePub)",
+      "description": "Austin Macauley Publishers Limited is a British publishing company"
     },
     {
       "link": "https://www.waterstones.com/book/milk-tea-cant/alan-forsyth/9781398443822",
-      "title": "Waterstones (Paperback)"
+      "title": "Waterstones (Paperback)",
+      "description": "Buy online with Free UK Delivery on Orders Over £25 or Click & Collect within hours"
     }
   ],
   "us-title": "Buy Now (US)",
   "us": [
     {
       "link": "https://www.amazon.com/Milk-Tea-Cant-Alan-Forsyth/dp/1398443824/ref=sr_1_1?keywords=Milk+Tea+Can%27t+Alan+Forsyth&qid=1661134226&sr=8-1",
-      "title": "Amazon (Paperback)"
+      "title": "Amazon (Paperback)",
+      "description": "Amazon United States. Free Delivery on Eligible Orders"
     },
     {
       "link": "https://www.amazon.com/Milk-Tea-Cant-Alan-Forsyth-ebook/dp/B0BCH8648H/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1661134226&sr=8-1",
-      "title": "Amazon (Kindle)"
+      "title": "Amazon (Kindle)",
+      "description": "Amazon United States. Read Anywhere & Anytime on Kindle"
     },
     {
       "link": "https://www.barnesandnoble.com/w/milk-tea-cant-alan-forsyth/1142049510?ean=9781398443822",
-      "title": "Barnes and Noble (Paperback)"
+      "title": "Barnes and Noble (Paperback)",
+      "description": "Barnes & Noble's online bookstore for books, NOOK ebooks & magazines"
     }
   ]
 }

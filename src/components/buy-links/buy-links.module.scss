@@ -22,3 +22,31 @@
     }
   }
 }
+
+.buy-large {
+  margin-top: 40px;
+
+  a {
+    color: $white;
+    text-decoration: none;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+    border-left: 3px solid $grey;
+    padding: 20px;
+
+    &:hover {
+      transition: border-width 0.2s ease;
+      border-left: 10px solid $white;
+    }
+
+    h4 {
+      margin: 0;
+    }
+
+    p {
+      margin-bottom: 0;
+    }
+  }
+}
