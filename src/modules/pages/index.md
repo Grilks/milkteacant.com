@@ -48,6 +48,9 @@ He recently returned to Melbourne, Australia following six years in Scotland. Ha
 ---
 
 ## What The Readers Say
+>﻿ Great read. Characters are so well developed that I got emotionally involved .  Kind of book where you want to keep reading to see what’s going to happen next. Modern day family & human issues that could happen to anyone anywhere in any city.  
+⭐️⭐️⭐️⭐️⭐️ rating
+Neil , Melbourne Australia
 
 > Wow. This is heavy-hitting stuff. There is gold in here.
 > Dane Picken, Screen Writer & Filmmaker, Australia.
