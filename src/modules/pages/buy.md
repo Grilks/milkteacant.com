@@ -2,7 +2,7 @@
 title: Buy
 layout: home.11ty.js
 cssPath: layouts/home.11ty.css
-summary: Buy Milk Tea Can't by Alan Forsyth wherever you buy books
+summary: Milk Tea Can't is being made available in a variety of bookstores and online.
 ---
 
 # Where to buy Milk Tea Can't
@@ -36,6 +36,8 @@ This is a book that will generate important conversations.
 **Address:** 513 Malvern Rd, Toorak VIC 3142
 **Website:** https://ourbookshophawksburn.com.au/
 
-Milk Tea Can’t and Five Gifts Flourishing are now available in the locally owned and operated Our Bookshop in Malvern Road Hawksburn.
+Milk Tea Can’t and Five Gifts Flourishing are now available in the locally owned and operated Our Bookshop Hawksburn.
 
-Please drop by and experience the excellent service of Michael and Gina and of course grab a copy of my books.  Michael is keen to host an event featuring Milk Tea Can’t and my good self in the near future. We will keep you posted.
+P﻿lease benefit from the excellent service of Michael ,Gina and the team and grab a copy of either Five Gifts Flourishing and/or Milk 
+T﻿ea Can't.
+M﻿ichael is keen to host an event of Milk Tea Can't in November, so please keep an eye out for future events.
