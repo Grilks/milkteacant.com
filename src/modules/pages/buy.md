@@ -4,7 +4,6 @@ layout: home.11ty.js
 cssPath: layouts/home.11ty.css
 summary: Milk Tea Can't is being made available in a variety of bookstores and online.
 ---
-
 # Where to buy Milk Tea Can't
 
 {% Subtitle %}Milk Tea Can't is available in Digital and Paperback{% endSubtitle %}
@@ -31,7 +30,7 @@ This is a book that will generate important conversations.
 
 ## Bookstores
 
-### Our Bookshop - Melbourne, Australia
+### Our Bookshop Hawksburn - Melbourne, Australia
 
 **Address:** 513 Malvern Rd, Toorak VIC 3142
 **Website:** https://ourbookshophawksburn.com.au/
