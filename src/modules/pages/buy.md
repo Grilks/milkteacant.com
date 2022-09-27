@@ -40,4 +40,4 @@ Milk Tea Can’t and Five Gifts Flourishing are now available in the locally own
 P﻿lease benefit from the excellent service of Michael ,Gina and the team and grab a copy of either Five Gifts Flourishing and/or Milk T﻿ea Can't.
 M﻿ichael is keen to host an event of Milk Tea Can't in November, so please keep an eye out for future events.
 
-![]()
+![](/src/modules/pages/_images/img_2476.jpeg)
