@@ -53,4 +53,14 @@
       }
     }
   }
+
+  img {
+    width: 65%;
+    margin: 0 auto;
+    border: 3px solid $grey-dark;
+
+    @include for-size(tablet-landscape-down) {
+      width: 90%;
+    }
+  }
 }

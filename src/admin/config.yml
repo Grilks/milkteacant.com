@@ -7,6 +7,7 @@ backend:
 site_url: https://milkteacant.com
 
 media_folder: 'src/modules/pages/_images' # Media files will be stored in the repo under images/uploads
+public_folder: '/_images'
 
 collections:
   - name: 'pages'

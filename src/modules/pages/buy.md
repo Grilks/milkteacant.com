@@ -4,12 +4,13 @@ layout: home.11ty.js
 cssPath: layouts/home.11ty.css
 summary: Milk Tea Can't is being made available in a variety of bookstores and online.
 ---
+
 # Where to buy Milk Tea Can't
 
 {% Subtitle %}Milk Tea Can't is available in Digital and Paperback{% endSubtitle %}
 
 <img
-  style="float: right; width: 300px; margin-left: 40px;"
+  style="float: right; width: 300px; margin-left: 40px; border: 0;"
   src="/_images/book-cover-3d.webp"
   alt="A paperback version of the book"
   width="300" 
@@ -37,7 +38,7 @@ This is a book that will generate important conversations.
 
 Milk Tea Can’t and Five Gifts Flourishing are now available in the locally owned and operated Our Bookshop Hawksburn.
 
-P﻿lease benefit from the excellent service of Michael ,Gina and the team and grab a copy of either Five Gifts Flourishing and/or Milk T﻿ea Can't.
-M﻿ichael is keen to host an event of Milk Tea Can't in November, so please keep an eye out for future events.
+Please benefit from the excellent service of Michael ,Gina and the team and grab a copy of either Five Gifts Flourishing and/or Milk Tea Can't.
+Michael is keen to host an event of Milk Tea Can't in November, so please keep an eye out for future events.
 
-![](/src/modules/pages/_images/img_2476.jpeg)
+![](/_images/img_2476.jpeg)

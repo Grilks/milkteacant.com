@@ -12,11 +12,12 @@ summary: Taking place in such a charming location, this is a book that
 {% Subtitle %}Written by Alan Forsyth{% endSubtitle %}
 
 <img
-  style="float: right; width: 300px; margin-left: 40px;"
+  style="float: right; width: 300px; margin-left: 40px; border: 0;"
   src="/_images/book-cover-3d.webp"
   alt="A paperback version of the book"
   width="300" 
   height="382"
+  class="book-cover"
 />
 
 As soon as you discover Fraser walking backward and barefoot on the Meadows, Edinburgh Castle splashed by Hogmanay fireworks, you will be hooked.
@@ -48,9 +49,10 @@ He recently returned to Melbourne, Australia following six years in Scotland. Ha
 ---
 
 ## What The Readers Say
->﻿ Great read. Characters are so well developed that I got emotionally involved .  Kind of book where you want to keep reading to see what’s going to happen next. Modern day family & human issues that could happen to anyone anywhere in any city.  
-⭐️⭐️⭐️⭐️⭐️ rating
-Neil , Melbourne Australia
+
+> Great read. Characters are so well developed that I got emotionally involved . Kind of book where you want to keep reading to see what’s going to happen next. Modern day family & human issues that could happen to anyone anywhere in any city.  
+> ⭐️⭐️⭐️⭐️⭐️ rating
+> Neil , Melbourne Australia
 
 > Wow. This is heavy-hitting stuff. There is gold in here.
 > Dane Picken, Screen Writer & Filmmaker, Australia.
