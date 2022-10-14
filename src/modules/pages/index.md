@@ -19,6 +19,12 @@ summary: Taking place in such a charming location, this is a book that
   class="book-cover"
 />
 
+
+
+J﻿oin us for the Performance / Launch.  Register Free Below .  Seats are limited so please get in fast.
+
+https://www.eventbrite.co.uk/e/milk-tea-cant-live-tickets-441379236177
+
 As soon as you discover Fraser walking backward and barefoot on the Meadows, Edinburgh Castle splashed by Hogmanay fireworks, you will be hooked.
 
 You will be further compelled when you find out Edinburgh is a character in the novel, her worried eye on Fraser that ominous night.
