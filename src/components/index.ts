@@ -5,3 +5,4 @@ export * from './dropdown/dropdown.component';
 export * from './contact/contact.component';
 export * from './vimeo-player/vimeo-player.component';
 export * from './navigation/navigation.component';
+export * from './event/event.component';
