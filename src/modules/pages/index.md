@@ -6,7 +6,6 @@ summary: Taking place in such a charming location, this is a book that
   celebrates the spirit of the city and its people whilst exposing the
   underbelly that can destroy all of us.
 ---
-
 # Milk Tea Can't
 
 {% Subtitle %}Written by Alan Forsyth{% endSubtitle %}
@@ -32,23 +31,19 @@ This is a book that will generate important conversations.
 
 {% BuyLinks %}The Preorder Links{% endBuyLinks %}
 
----
-
-{% Event "https://www.eventbrite.co.uk/e/milk-tea-cant-live-tickets-441379236177" %}
+- - -
 
 ## Milk Tea Can't Live
 
-Join Alan Forsyth and Duncan Silcock as they perform a few songs from Alan's compelling new novel, Milk Tea Can't, and celebrate the launch.
+L﻿ooking forward to seeing you all at what will be a memorable night, we are now fully. subscribed.
 
-Seats are limited so please get in fast.
+F﻿uture events will be scheduled and footage from the event on the 9th shared.
 
-**Price:** Free!
-**Time:** Wed, 9 November 2022, 7:30 pm – 10:00 pm AEDT
-**Location:** Our Bookshop Hawksburn 513 Malvern Road Toorak, VIC 3142
 
-{% endEvent %}
 
----
+I﻿ndeed the conversation has started!
+
+- - -
 
 ## About the Author
 
@@ -62,7 +57,7 @@ Alan is celebrated as a leader in community and charity, more recently founding 
 
 He recently returned to Melbourne, Australia following six years in Scotland. Having completed his second book, Milk Tea Can’t, he will continue to enjoy writing, travelling with his wife, creating and performing his poetry and offering live music performances on the streets of Melbourne. He will of course continue to provide direct help to charities, in particular those with a focus on the empowerment of young people.
 
----
+- - -
 
 ## What The Readers Say
 
@@ -96,7 +91,7 @@ Dane Picken, Screen Writer & Filmmaker, Australia.
 > Reading this novel felt like an immersion in the maelstrom of life in Edinburgh city. The characters, the cultural norms, even the language are brought to the fore as we explore the dysfunctional lives of a some of the city’s residents. In walking the path with these wee folk, we gain insights into the day to day suffering that we humans can inhabit, our inability to see past our own stuff- wants, craving, desires and addictions. On occasions we see the sun shine with new possibilities, only to revisit the grey wet blanket of despair. We ride the waves with these Edinburgh folk as they try to pay attention to what is most important in their lives. We, as readers, are invited to reflect on our own lives and the ever present possibility of happiness from within and with each other. A novel to perturb the spirit.
 > Mark, Melbourne, Australia.
 
----
+- - -
 
 ## What's in it for you, the reader?
 
@@ -106,7 +101,7 @@ Dane Picken, Screen Writer & Filmmaker, Australia.
 2. Set in one of the most beautiful cities of the world, the reader is treated to a cultural tour of Edinburgh. This of course includes its seedy side and several insights as to the historical development of Auld Reeky.
 3. Alan Forsyth is a highlly creative author willing to explore what is new and different. In Milk Tea Can't he uniquely includes Edinburgh as a character, observing and commentating on the events and characters in the novel and of course on her own city. Perhaps she a cross between a Shakesperean chorus and a contemporary influencer.
 
----
+- - -
 
 ## Contact the author
 
