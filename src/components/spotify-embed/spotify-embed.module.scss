@@ -1,0 +1,8 @@
+.spotify-player {
+  margin-top: 30px;
+  border-radius: 12px;
+
+  [data-testid='entity-owner'] {
+    display: none;
+  }
+}

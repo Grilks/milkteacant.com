@@ -6,3 +6,4 @@ export * from './contact/contact.component';
 export * from './vimeo-player/vimeo-player.component';
 export * from './navigation/navigation.component';
 export * from './event/event.component';
+export * from './spotify-embed/spotify-embed.component';
