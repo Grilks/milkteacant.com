@@ -5,7 +5,7 @@ cssPath: layouts/home.11ty.css
 summary: Milk Tea Can’t Introduction, alive and ready.
 ---
 
-Milk Tea Cant Live The first song.
+Milk Tea Cant Live.  Introduction and the First Song.
 
 {% Subtitle %}Fraser responds to the Wombats{% endSubtitle %}
 
