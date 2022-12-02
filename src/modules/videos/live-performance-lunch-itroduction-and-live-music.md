@@ -1,5 +1,5 @@
 ---
-title: Live Performance & Lunch Itroduction and live music.
+title: Live Performance & Launch Introduction complemented by live music.
 layout: video.11ty.js
 cssPath: layouts/home.11ty.css
 summary: M﻿ilk Tea Can't an amzing performance of thi unique novel.  The
