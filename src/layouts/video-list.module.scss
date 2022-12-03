@@ -21,6 +21,7 @@
 
   div {
     flex-grow: 1;
+    margin-left: 20px;
 
     h2 {
       margin-top: 0;
@@ -35,6 +36,11 @@
 .play {
   width: 40px;
   height: 40px;
-  margin: 0 20px;
+  margin-left: 20px;
+  flex: 0 0 40px;
   fill: $white;
+
+  @include for-size(tablet-landscape-down) {
+    display: none;
+  }
 }
