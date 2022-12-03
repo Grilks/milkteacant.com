@@ -1,12 +1,12 @@
 ---
-title: Milk Tea Can't - Live Performance
+title: Milk Tea Can't Live - The Launch
 layout: video.11ty.js
 cssPath: layouts/home.11ty.css
 summary: M﻿ilk Tea Can't an amazing performance of the unique novel.  The
   conversation has started.
 ---
 
-# Milk Tea Can't - Live Performance
+# Milk Tea Can't Live - The Launch
 
 {% Subtitle %}Live Performance & Launch Introduction complemented by live music.{% endSubtitle %}
 
