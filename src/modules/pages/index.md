@@ -113,6 +113,11 @@ A playlist of the included music from the book, available on Spotify
 {% SpotifyEmbed "2iDzMl4DFRAiHwxrV3VCVT" %}{% endSpotifyEmbed %}
 
 ---
+#﻿# Alan Forsyth's new novel has just been completed.
+
+T﻿he Place A Village
+
+W﻿ill be released across the year.  Be prepared to find out more about this epic and solid nove.
 
 ## Contact the author
 
