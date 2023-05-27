@@ -117,7 +117,7 @@ A playlist of the included music from the book, available on Spotify
 
 T﻿he Place A Village
 
-W﻿ill be released across the year.  Be prepared to find out more about this epic and solid creation
+W﻿ill be released across the year.  Be prepared to find out more about this epic and solid creation.
 
 ## Contact the author
 
