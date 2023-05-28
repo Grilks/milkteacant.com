@@ -6,7 +6,6 @@ summary: Taking place in such a charming location, this is a book that
   celebrates the spirit of the city and its people whilst exposing the
   underbelly that can destroy all of us.
 ---
-
 # Milk Tea Can't
 
 {% Subtitle %}Written by Alan Forsyth{% endSubtitle %}
@@ -32,7 +31,7 @@ This is a book that will generate important conversations.
 
 {% BuyLinks %}The Preorder Links{% endBuyLinks %}
 
----
+- - -
 
 ## Milk Tea Can't Live
 
@@ -42,7 +41,7 @@ Future events will be scheduled and footage from the event on the 9th shared.
 
 Indeed the conversation has started!
 
----
+- - -
 
 ## About the Author
 
@@ -56,7 +55,7 @@ Alan is celebrated as a leader in community and charity, more recently founding 
 
 He recently returned to Melbourne, Australia following six years in Scotland. Having completed his second book, Milk Tea Can’t, he will continue to enjoy writing, travelling with his wife, creating and performing his poetry and offering live music performances on the streets of Melbourne. He will of course continue to provide direct help to charities, in particular those with a focus on the empowerment of young people.
 
----
+- - -
 
 ## What The Readers Say
 
@@ -67,10 +66,10 @@ He recently returned to Melbourne, Australia following six years in Scotland. Ha
 > Thought provoking ,  showing human nature in all its offerings,  do yourself a favor , sit down and enjoy the ride that is Milk Tea Cant.
 >
 > Michael, Melbourne Australia.
-
+>
 > Wow. This is heavy-hitting stuff. There is gold in here.
 > Dane Picken, Screen Writer & Filmmaker, Australia.
-
+>
 > An important and timely book, very engaging and well written.
 > ⭐️⭐️⭐️⭐️⭐️ rating [on goodreads.com](https://www.goodreads.com/review/show/4995739374).
 > Ash Humphrey, Melbourne Australia.
@@ -90,7 +89,7 @@ He recently returned to Melbourne, Australia following six years in Scotland. Ha
 > Reading this novel felt like an immersion in the maelstrom of life in Edinburgh city. The characters, the cultural norms, even the language are brought to the fore as we explore the dysfunctional lives of a some of the city’s residents. In walking the path with these wee folk, we gain insights into the day to day suffering that we humans can inhabit, our inability to see past our own stuff- wants, craving, desires and addictions. On occasions we see the sun shine with new possibilities, only to revisit the grey wet blanket of despair. We ride the waves with these Edinburgh folk as they try to pay attention to what is most important in their lives. We, as readers, are invited to reflect on our own lives and the ever present possibility of happiness from within and with each other. A novel to perturb the spirit.
 > Mark, Melbourne, Australia.
 
----
+- - -
 
 ## What's in it for you, the reader?
 
@@ -100,26 +99,33 @@ He recently returned to Melbourne, Australia following six years in Scotland. Ha
 2. Set in one of the most beautiful cities of the world, the reader is treated to a cultural tour of Edinburgh. This of course includes its seedy side and several insights as to the historical development of Auld Reeky.
 3. Alan Forsyth is a highlly creative author willing to explore what is new and different. In Milk Tea Can't he uniquely includes Edinburgh as a character, observing and commentating on the events and characters in the novel and of course on her own city. Perhaps she a cross between a Shakesperean chorus and a contemporary influencer.
 
----
-#﻿# Milk Tea Can't - Documentary
+- - -
+
+## Milk Tea Can't - Documentary
 
 G﻿eoff McDonald, documentary film maker has produced a snappy documentary on Alan Forsyth and Milk Tea Can't.  
 
 [Click here to watch](https://www.dropbox.com/s/d04ght5bi5vraao/AlanV5.mp4?dl=0)
 
--﻿--
+- - -
+
 ## Music from Milk Tea Can't
 
 A playlist of the included music from the book, available on Spotify
 
 {% SpotifyEmbed "2iDzMl4DFRAiHwxrV3VCVT" %}{% endSpotifyEmbed %}
 
----
-#﻿# Alan Forsyth's new novel has just been completed.
+- - -
 
-T﻿he Place A Village
+## The next novel
+
+Alan Forsyth's new novel has just been completed.
+
+*T﻿he Place A Village*
 
 W﻿ill be released across the year.  Be prepared to find out more about this epic and solid creation.
+
+- - -
 
 ## Contact the author
 
