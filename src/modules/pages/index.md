@@ -33,16 +33,6 @@ This is a book that will generate important conversations.
 
 - - -
 
-## Milk Tea Can't Live
-
-Looking forward to seeing you all at what will be a memorable night, we are now fully. subscribed.
-
-Future events will be scheduled and footage from the event on the 9th shared.
-
-Indeed the conversation has started!
-
-- - -
-
 ## About the Author
 
 Alan's early career included supporting large corporations, like Yellow Pages Australia and Simplot, where he encouraged teams and managers to improve their performance which flowed onto them becoming better people, teams and leaders.
