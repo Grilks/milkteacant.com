@@ -101,11 +101,13 @@ He recently returned to Melbourne, Australia following six years in Scotland. Ha
 3. Alan Forsyth is a highlly creative author willing to explore what is new and different. In Milk Tea Can't he uniquely includes Edinburgh as a character, observing and commentating on the events and characters in the novel and of course on her own city. Perhaps she a cross between a Shakesperean chorus and a contemporary influencer.
 
 ---
-#﻿#
-G﻿eoff McDonald, documentary film maker has produced a snappy documentary on Alan Forsyth and Milk Tea Can't.  Click on the following link
+#﻿# Milk Tea Can't - Documentary
 
-https://www.dropbox.com/s/d04ght5bi5vraao/AlanV5.mp4?dl=0
+G﻿eoff McDonald, documentary film maker has produced a snappy documentary on Alan Forsyth and Milk Tea Can't.  
 
+[Click here to watch](https://www.dropbox.com/s/d04ght5bi5vraao/AlanV5.mp4?dl=0)
+
+-﻿--
 ## Music from Milk Tea Can't
 
 A playlist of the included music from the book, available on Spotify
