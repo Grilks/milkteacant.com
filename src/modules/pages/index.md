@@ -97,6 +97,9 @@ G﻿eoff McDonald, documentary film maker has produced a snappy documentary on A
 
 [Click here to watch](https://www.dropbox.com/s/d04ght5bi5vraao/AlanV5.mp4?dl=0)
 
+T﻿o find out more about the unique and talented Geoff McDonald,the Ideas Architect,experience his thought provoking podcasts and documentaries click below.   
+
+(https://geoffmcdonald.com/geoff-mcdonald-ideas-architect/)
 - - -
 
 ## Music from Milk Tea Can't
