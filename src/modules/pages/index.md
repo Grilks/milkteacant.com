@@ -100,6 +100,7 @@ G﻿eoff McDonald, documentary film maker has produced a snappy documentary on A
 T﻿o find out more about the unique and talented Geoff McDonald,the Ideas Architect,experience his thought provoking podcasts and documentaries click below.   
 
 (https://geoffmcdonald.com/geoff-mcdonald-ideas-architect/)
+
 - - -
 
 ## Music from Milk Tea Can't
@@ -114,7 +115,7 @@ A playlist of the included music from the book, available on Spotify
 
 Alan Forsyth's new novel has just been completed.
 
-*T﻿he Place A Village*
+*T﻿he Place For A Village*
 
 W﻿ill be released across the year.  Be prepared to find out more about this epic and solid creation.
 
